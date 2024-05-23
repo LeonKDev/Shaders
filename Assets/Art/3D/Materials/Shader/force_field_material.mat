@@ -68,8 +68,8 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 1
     - _EnableFogOnTransparent: 1
     - _Fill: 0.01
-    - _Fresnel_Power: 1.71
-    - _Offset: 0.83
+    - _Fresnel_Power: 2.22
+    - _Offset: 0.78
     - _OpaqueCullMode: 2
     - _RayTracing: 0
     - _ReceivesSSR: 1
@@ -104,7 +104,7 @@ Material:
     - _ZTestTransparent: 4
     - _ZWrite: 0
     m_Colors:
-    - _Color: {r: 9.54176, g: 0, b: 103.40392, a: 1}
+    - _Color: {r: 4.77088, g: 0, b: 51.70196, a: 1}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
   m_BuildTextureStacks: []
